@@ -1,22 +1,24 @@
 # Hugo Ribeiro
 
-Software Engineer
+Senior Node.JS, Python and Java Software Engineer with +15y of experience.
 
 São Paulo - SP - Brazil
-
-Software engineer, I have experience as a developer using JavaScript,  Python, C#, Ruby and Java. Always open to new technologies and self-learning.
 
 ### SOCIAL PROFILES
 
 - * / hugosenari
+  * [linkedin](https://www.linkedin.com/in/hugosenari/)
+  * [X](https://x.com/hugosenari)
+  * [telegram](https://t.me/hugosenari)
+  * [whatsapp](https://wa.me/+5511981498025)
 
 ### SKILLS
 
 - ★★★★★ JavaScript
+- ★★★★☆ Java
 - ★★★★☆ Python
 - ★★★★☆ HTML & CSS
 - ★★★☆☆ Amazon AWS
-- ★★★☆☆ Java
 - ★★★☆☆ SQL
 - ★★★☆☆ NoSQL
 - ★★★☆☆ Git
