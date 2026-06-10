@@ -6,11 +6,11 @@ São Paulo - SP - Brazil
 
 ### SOCIAL PROFILES
 
-- * / hugosenari
-  * [linkedin](https://www.linkedin.com/in/hugosenari/)
-  * [X](https://x.com/hugosenari)
-  * [telegram](https://t.me/hugosenari)
-  * [whatsapp](https://wa.me/+5511981498025)
+* / hugosenari
+* [linkedin](https://www.linkedin.com/in/hugosenari/)
+* [X](https://x.com/hugosenari)
+* [telegram](https://t.me/hugosenari)
+* [whatsapp](https://wa.me/+5511981498025)
 
 ### SKILLS
 
